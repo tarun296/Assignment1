@@ -1,0 +1,39 @@
+.home-page {
+    top: 0px;
+left: 0px;
+width: 1920px;
+height: 15013px;
+/* UI Properties */
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.article {
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+}
+
+.header {
+    font-size: 80px;
+    color: white;
+    text-align: center;
+}
+/* .container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+} */
+.h1 {
+    overlay: "center";
+    
+}
